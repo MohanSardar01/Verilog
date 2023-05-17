@@ -1,2 +1,2 @@
 # Verilog
-Practicing Verilog HDL Coding Here!
+Repository for Verilog code
